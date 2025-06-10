@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  Quantum-Codes
 
 # Build settings
-theme: Cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
